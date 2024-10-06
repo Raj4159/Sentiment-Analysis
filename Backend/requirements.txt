@@ -1,0 +1,5 @@
+torch
+torchvision
+torchaudio
+fastapi[standard]
+transformers
